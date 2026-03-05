@@ -11,6 +11,15 @@ probabilities of interview callbacks.
 - Logistic regression (glm) for interview callbacks
 - Linear regression (lm) for recruiter profile views
 
+## Key Variables
+- has_profile_photo
+- years_experience
+- perceived_attractiveness_score
+- education_level
+- university_prestige
+- profile_completeness
+- connections_count
+  
 ## Tools
 - R
 - ggplot2
