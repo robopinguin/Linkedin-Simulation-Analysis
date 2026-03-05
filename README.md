@@ -2,9 +2,9 @@
 This project simulates LinkedIn profile data to investigate whether
 the presence of a profile photo influences recruiter behaviour.
 
-Using synthetic data for 1,500 profiles, the analysis examines whether
-profiles with photos receive more recruiter profile views and higher
-probabilities of interview callbacks.
+Designed a synthetic dataset (n=1500) to evaluate the effect of profile photos on recruiter visibility and engagement. 
+Applied controlled logistics and linear regression to test hypotheses under multiple confounding variables. 
+Demonstrates ability to generate, clean and analyse complex dataset in R.
 
 ## Methods
 - Simulated dataset of 1500 profiles
