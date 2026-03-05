@@ -6,6 +6,9 @@ A synthetic dataset (n = 1500) was designed to evaluate the effect of profile ph
 
 The project demonstrates the ability to generate, clean and analyse complex datasets using R.
 
+## Project Context
+This project was inspired by the author’s decision not to include a profile photo on professional platforms, motivating an exploration of whether profile photos meaningfully influence recruiter visibility and engagement using simulated LinkedIn profile data.
+
 ## Methods
 - Simulated dataset of 1500 profiles
 - Logistic regression (glm) for interview callbacks
