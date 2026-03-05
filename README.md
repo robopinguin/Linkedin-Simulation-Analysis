@@ -1,4 +1,5 @@
 # LinkedIn Profile Photos and Recruiter Visibility: A Simulation Study
+![Callback Rate Plot](interviewcallbackrate.png)
 This project simulates LinkedIn profile data to investigate whether the presence of a profile photo influences recruiter behaviour.
 
 A synthetic dataset (n = 1500) was designed to evaluate the effect of profile photos on recruiter visibility and engagement. Logistic and linear regression models were applied to test the hypothesis while accounting for multiple confounding variables.
