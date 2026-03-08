@@ -38,4 +38,4 @@ However, visible photos can also introduce applicant-side bias: candidates may f
 Overall, photos on LinkedIn affect social perception more than formal hiring outcomes and highlight the potential for bias on both sides.
 
 ## Limitations  
-The dataset is simulated and may not fully reflect real-world LinkedIn behaviour. The simulation only incorporates a subset of features (e.g., profile photo, connections, education) and does not account for other biases such as gender, ethnicity, or network effects. Randomised components introduce stochasticity, which may exaggerate or underestimate outcomes and temporal trends are not modelled as the data is static.
+The dataset is simulated and may not fully reflect real-world LinkedIn behaviour. The simulation only incorporates a subset of features (e.g., profile photo, connections, education) and does not account for other biases such as ethnicity or network effects. Randomised components introduce stochasticity, which may exaggerate or underestimate outcomes and temporal trends are not modelled as the data is static.
